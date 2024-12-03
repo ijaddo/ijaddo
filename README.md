@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ijaddo
 - 👀 I’m interested in web and mobile development: JavaScript,  ... etc
-- 🌱 I’m currently learning tailwind
+- 🌱 I’m currently programming a project using react js / native.
 - 💞️ I’m looking to collaborate on interesting projects...
 - 📫 How to reach me ... ijaddo@yahoo.com
 
